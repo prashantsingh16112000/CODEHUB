@@ -1,3 +1,3 @@
 Data Structure & Algorithm 
 <br>
-Author: Prashant Singh
+Author: Prashant Singh Rajput
